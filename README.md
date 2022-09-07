@@ -10,7 +10,8 @@
  
    Here, I have used pre-trained bert model to predict the emotion of customers.
    
-   What’s BERT? BERT is a computational model that converts words into numbers. This process is crucial because machine learning models take in numbers (not words) as inputs, so an algorithm that converts words into numbers allows you to train machine learning models on your originally-textual data.
+   # What’s BERT? 
+   BERT is a computational model that converts words into numbers. This process is crucial because machine learning models take in numbers (not words) as inputs, so an algorithm that converts words into numbers allows you to train machine learning models on your originally-textual data.
    
    
  
