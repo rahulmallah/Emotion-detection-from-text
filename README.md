@@ -7,4 +7,6 @@
 
    ‘Emotion detection’ is one level deeper than the typical sentiment classification problem in the NLP world. In sentiment analysis, polarity (positive, negative, or neutral) is the primary concern, whereas, in emotion detection, the emotional or psychological state is detected. Sentiment analysis is highly subjective, whereas emotion detection is more objective and precise.
 
-    Candidates are expected to delve deeper into the ‘text-based emotion detection’ problem by going through multiple articles, research papers and other available literature apart from using their own intelligence. Teams will present the different methods of text-based emotion detection and state-of-the-art architectures to solve the problem and make it to Phase 2 where they will solve a real-world problem statement and create an everlasting impact in the NLP domain.
+ 
+![1_p4LFBwyHtCw_Qq9paDampA](https://user-images.githubusercontent.com/63289988/188880464-1726bc8b-f1ef-4fe3-bdcb-5123571be5d7.png)
+![1_p4LFBwyHtCw_Qq9paDampA](https://user-images.githubusercontent.com/63289988/188880532-12048e53-347e-4060-b4c6-bfbb21bc2b1d.png)
