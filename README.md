@@ -8,7 +8,10 @@
    ‘Emotion detection’ is one level deeper than the typical sentiment classification problem in the NLP world. In sentiment analysis, polarity (positive, negative, or neutral) is the primary concern, whereas, in emotion detection, the emotional or psychological state is detected. Sentiment analysis is highly subjective, whereas emotion detection is more objective and precise.
 
  
-   Here, I have used pre-trained bert model predict the emotion of customers.
- What’s BERT? BERT is a computational model that converts words into numbers. This process is crucial because machine learning models take in numbers (not words) as inputs, so an algorithm that converts words into numbers allows you to train machine learning models on your originally-textual data.
+   Here, I have used pre-trained bert model to predict the emotion of customers.
+   
+   What’s BERT? BERT is a computational model that converts words into numbers. This process is crucial because machine learning models take in numbers (not words) as inputs, so an algorithm that converts words into numbers allows you to train machine learning models on your originally-textual data.
+   
+   
  
 ![1_p4LFBwyHtCw_Qq9paDampA](https://user-images.githubusercontent.com/63289988/188880532-12048e53-347e-4060-b4c6-bfbb21bc2b1d.png)
