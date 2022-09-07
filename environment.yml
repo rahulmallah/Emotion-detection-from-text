@@ -1,0 +1,11 @@
+name: Emotion-detection-from-text
+dependencies:
+  - python=3.7
+  - scikit-learn=0.24.2
+ 
+  
+  - pip:
+      - tensorflow==2.5
+      - transformers==4.8.2
+      - text_hammer
+      - spacy==3.1.1
